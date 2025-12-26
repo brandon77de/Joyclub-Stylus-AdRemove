@@ -1,0 +1,4 @@
+/* Den gesamten Promo-Banner ausblenden */
+div[data-testid="feed-promo-banner"] {
+    display: none !important;
+}
